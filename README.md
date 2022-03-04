@@ -1,2 +1,2 @@
-# UPJ-Pemprograman-Bergerak
+# UPJ Pemprograman Bergerak
 Repository untuk mata kuliah pemprograman bergerak di Universitas Pembangunan Jaya
